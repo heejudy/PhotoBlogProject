@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Android
+.gradle/
+.idea/
+**/build/
+local.properties
+*.iml
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Python / Django
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+db.sqlite3
+.env
+.env.*
+
+# Sensitive files
+*.pem
+*.key
